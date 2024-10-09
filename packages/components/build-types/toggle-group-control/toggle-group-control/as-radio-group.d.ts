@@ -1,0 +1,3 @@
+import type { ToggleGroupControlMainControlProps } from '../types';
+export declare const ToggleGroupControlAsRadioGroup: import("react").ForwardRefExoticComponent<ToggleGroupControlMainControlProps & Omit<Omit<import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, "ref">, "label" | "as" | "children" | "onChange" | "value" | "size" | "isAdaptiveWidth"> & import("react").RefAttributes<HTMLDivElement>>;
+//# sourceMappingURL=as-radio-group.d.ts.map

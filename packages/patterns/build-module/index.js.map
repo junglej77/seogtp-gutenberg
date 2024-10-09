@@ -1,0 +1,1 @@
+{"version":3,"names":["store"],"sources":["@wordpress/patterns/src/index.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nexport { store } from './store';\r\nexport * from './private-apis';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,SAASA,KAAK,QAAQ,SAAS;AAC/B,cAAc,gBAAgB","ignoreList":[]}

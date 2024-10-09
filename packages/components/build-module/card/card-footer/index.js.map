@@ -1,0 +1,1 @@
+{"version":3,"names":["default","useCardFooter"],"sources":["@wordpress/components/src/card/card-footer/index.ts"],"sourcesContent":["export { default } from './component';\r\nexport { useCardFooter } from './hook';\r\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,aAAa;AACrC,SAASC,aAAa,QAAQ,QAAQ","ignoreList":[]}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/components/src/progress-bar/types.ts"],"sourcesContent":["export type ProgressBarProps = {\r\n\t/**\r\n\t * Value of the progress bar.\r\n\t */\r\n\tvalue?: number;\r\n\r\n\t/**\r\n\t * A CSS class to apply to the progress bar wrapper (track) element.\r\n\t */\r\n\tclassName?: string;\r\n};\r\n"],"mappings":"","ignoreList":[]}

@@ -1,0 +1,1 @@
+{"version":3,"names":["default","Heading","useHeading"],"sources":["@wordpress/components/src/heading/index.ts"],"sourcesContent":["export { default as Heading } from './component';\r\nexport { useHeading } from './hook';\r\n"],"mappings":"AAAA,SAASA,OAAO,IAAIC,OAAO,QAAQ,aAAa;AAChD,SAASC,UAAU,QAAQ,QAAQ","ignoreList":[]}

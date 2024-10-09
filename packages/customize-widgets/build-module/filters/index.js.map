@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/customize-widgets/src/filters/index.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nimport './move-to-sidebar';\r\nimport './replace-media-upload';\r\nimport './wide-widget-display';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,OAAO,mBAAmB;AAC1B,OAAO,wBAAwB;AAC/B,OAAO,uBAAuB","ignoreList":[]}

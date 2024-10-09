@@ -1,0 +1,1 @@
+{"version":3,"names":["reorderPage","undefined"],"sources":["@wordpress/editor/src/dataviews/actions/reorder-page.native.tsx"],"sourcesContent":["const reorderPage = undefined;\r\n\r\nexport default reorderPage;\r\n"],"mappings":"AAAA,MAAMA,WAAW,GAAGC,SAAS;AAE7B,eAAeD,WAAW","ignoreList":[]}

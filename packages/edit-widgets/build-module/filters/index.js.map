@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/edit-widgets/src/filters/index.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nimport './move-to-widget-area';\r\nimport './replace-media-upload';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,OAAO,uBAAuB;AAC9B,OAAO,wBAAwB","ignoreList":[]}

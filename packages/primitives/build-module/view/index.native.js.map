@@ -1,0 +1,1 @@
+{"version":3,"names":["View"],"sources":["@wordpress/primitives/src/view/index.native.js"],"sourcesContent":["/**\r\n * External dependencies\r\n */\r\nexport { View } from 'react-native';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,SAASA,IAAI,QAAQ,cAAc","ignoreList":[]}

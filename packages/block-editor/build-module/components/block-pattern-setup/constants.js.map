@@ -1,0 +1,1 @@
+{"version":3,"names":["VIEWMODES","carousel","grid"],"sources":["@wordpress/block-editor/src/components/block-pattern-setup/constants.js"],"sourcesContent":["export const VIEWMODES = {\r\n\tcarousel: 'carousel',\r\n\tgrid: 'grid',\r\n};\r\n"],"mappings":"AAAA,OAAO,MAAMA,SAAS,GAAG;EACxBC,QAAQ,EAAE,UAAU;EACpBC,IAAI,EAAE;AACP,CAAC","ignoreList":[]}

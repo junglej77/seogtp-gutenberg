@@ -1,0 +1,1 @@
+{"version":3,"names":["default","useFlexItem"],"sources":["@wordpress/components/src/flex/flex-item/index.ts"],"sourcesContent":["export { default } from './component';\r\nexport { useFlexItem } from './hook';\r\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,aAAa;AACrC,SAASC,WAAW,QAAQ,QAAQ","ignoreList":[]}

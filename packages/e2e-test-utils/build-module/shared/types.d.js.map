@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/e2e-test-utils/src/shared/types.d.ts"],"sourcesContent":["/**\r\n * Possible Gutenberg context\r\n *\r\n * Often useful to determine different selectors.\r\n */\r\nexport type GutenbergContext = 'post-editor' | 'site-editor';\r\n"],"mappings":"","ignoreList":[]}

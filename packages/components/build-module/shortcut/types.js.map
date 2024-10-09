@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/components/src/shortcut/types.ts"],"sourcesContent":["export type ShortcutProps = {\r\n\t/**\r\n\t * Classname to apply to the shortcut.\r\n\t */\r\n\tclassName?: string;\r\n\t/**\r\n\t * Shortcut configuration\r\n\t */\r\n\tshortcut?: string | { display: string; ariaLabel: string };\r\n};\r\n"],"mappings":"","ignoreList":[]}

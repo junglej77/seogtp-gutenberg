@@ -1,0 +1,1 @@
+{"version":3,"names":["default","pencil"],"sources":["@wordpress/icons/src/library/edit.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\n\r\nimport { default as pencil } from './pencil';\r\nexport default pencil;\r\n"],"mappings":"AAAA;AACA;AACA;;AAEA,SAASA,OAAO,IAAIC,MAAM,QAAQ,UAAU;AAC5C,eAAeA,MAAM","ignoreList":[]}

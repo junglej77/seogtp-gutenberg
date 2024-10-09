@@ -1,0 +1,1 @@
+{"version":3,"names":["settings","picker"],"sources":["@wordpress/format-library/src/link/modal-screens/screens.native.js"],"sourcesContent":["export default {\r\n\tsettings: 'linkSettings',\r\n\tpicker: 'linkPicker',\r\n};\r\n"],"mappings":"AAAA,eAAe;EACdA,QAAQ,EAAE,cAAc;EACxBC,MAAM,EAAE;AACT,CAAC","ignoreList":[]}

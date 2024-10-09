@@ -1,0 +1,1 @@
+{"version":3,"names":["default","useCardDivider"],"sources":["@wordpress/components/src/card/card-divider/index.ts"],"sourcesContent":["export { default } from './component';\r\nexport { useCardDivider } from './hook';\r\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,aAAa;AACrC,SAASC,cAAc,QAAQ,QAAQ","ignoreList":[]}

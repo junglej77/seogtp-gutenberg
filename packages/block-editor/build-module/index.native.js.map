@@ -1,0 +1,1 @@
+{"version":3,"names":["useEditorWrapperStyles"],"sources":["@wordpress/block-editor/src/index.native.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nexport * from './index.js';\r\n\r\nexport { useEditorWrapperStyles } from './hooks';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,cAAc,YAAY;AAE1B,SAASA,sBAAsB,QAAQ,SAAS","ignoreList":[]}

@@ -1,0 +1,1 @@
+{"version":3,"names":["exportPattern","undefined"],"sources":["@wordpress/editor/src/dataviews/actions/export-pattern.native.tsx"],"sourcesContent":["const exportPattern = undefined;\r\n\r\nexport default exportPattern;\r\n"],"mappings":"AAAA,MAAMA,aAAa,GAAGC,SAAS;AAE/B,eAAeD,aAAa","ignoreList":[]}

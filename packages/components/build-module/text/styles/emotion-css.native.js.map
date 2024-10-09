@@ -1,0 +1,1 @@
+{"version":3,"names":["css"],"sources":["@wordpress/components/src/text/styles/emotion-css.native.js"],"sourcesContent":["/**\r\n * External dependencies\r\n */\r\nimport { css } from '@emotion/native';\r\n\r\nexport default css;\r\n"],"mappings":"AAAA;AACA;AACA;AACA,SAASA,GAAG,QAAQ,iBAAiB;AAErC,eAAeA,GAAG","ignoreList":[]}

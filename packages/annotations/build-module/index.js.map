@@ -1,0 +1,1 @@
+{"version":3,"names":["store"],"sources":["@wordpress/annotations/src/index.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nimport './format';\r\nimport './block';\r\n\r\nexport { store } from './store';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,OAAO,UAAU;AACjB,OAAO,SAAS;AAEhB,SAASA,KAAK,QAAQ,SAAS","ignoreList":[]}

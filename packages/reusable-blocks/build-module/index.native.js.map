@@ -1,0 +1,1 @@
+{"version":3,"names":["store"],"sources":["@wordpress/reusable-blocks/src/index.native.js"],"sourcesContent":["/**\r\n * WordPress dependencies\r\n */\r\nimport '@wordpress/core-data';\r\n\r\nexport { store } from './store';\r\nexport * from './components';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,OAAO,sBAAsB;AAE7B,SAASA,KAAK,QAAQ,SAAS;AAC/B,cAAc,cAAc","ignoreList":[]}

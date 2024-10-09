@@ -1,0 +1,3 @@
+import type { ToggleGroupControlMainControlProps } from '../types';
+export declare const ToggleGroupControlAsButtonGroup: import("react").ForwardRefExoticComponent<ToggleGroupControlMainControlProps & Omit<Omit<import("react").DetailedHTMLProps<import("react").HTMLAttributes<HTMLDivElement>, HTMLDivElement>, "ref">, "label" | "as" | "children" | "onChange" | "value" | "size" | "isAdaptiveWidth"> & import("react").RefAttributes<HTMLDivElement>>;
+//# sourceMappingURL=as-button-group.d.ts.map

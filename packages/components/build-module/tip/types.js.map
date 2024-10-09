@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/components/src/tip/types.ts"],"sourcesContent":["/**\r\n * External dependencies\r\n */\r\nimport type { ReactNode } from 'react';\r\n\r\nexport type TipProps = {\r\n\t/**\r\n\t * Children to render in the tip.\r\n\t */\r\n\tchildren: ReactNode;\r\n};\r\n"],"mappings":"","ignoreList":[]}

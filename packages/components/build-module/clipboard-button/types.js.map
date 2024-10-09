@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/components/src/clipboard-button/types.ts"],"sourcesContent":["/**\r\n * External dependencies\r\n */\r\nimport type { ReactNode } from 'react';\r\n\r\nexport interface ClipboardButtonProps {\r\n\tchildren: ReactNode;\r\n\tonCopy: () => void;\r\n\tonFinishCopy?: () => void;\r\n\ttext: string;\r\n}\r\n"],"mappings":"","ignoreList":[]}

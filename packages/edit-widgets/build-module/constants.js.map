@@ -1,0 +1,1 @@
+{"version":3,"names":["ALLOW_REUSABLE_BLOCKS","ENABLE_EXPERIMENTAL_FSE_BLOCKS"],"sources":["@wordpress/edit-widgets/src/constants.js"],"sourcesContent":["export const ALLOW_REUSABLE_BLOCKS = false;\r\nexport const ENABLE_EXPERIMENTAL_FSE_BLOCKS = false;\r\n"],"mappings":"AAAA,OAAO,MAAMA,qBAAqB,GAAG,KAAK;AAC1C,OAAO,MAAMC,8BAA8B,GAAG,KAAK","ignoreList":[]}

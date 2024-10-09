@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/plugins/src/index.js"],"sourcesContent":["export * from './components';\r\nexport * from './api';\r\n"],"mappings":"AAAA,cAAc,cAAc;AAC5B,cAAc,OAAO","ignoreList":[]}

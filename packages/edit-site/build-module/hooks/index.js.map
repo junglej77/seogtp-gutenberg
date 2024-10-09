@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/edit-site/src/hooks/index.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nimport './push-changes-to-global-styles';\r\n"],"mappings":"AAAA;AACA;AACA;AACA,OAAO,iCAAiC","ignoreList":[]}

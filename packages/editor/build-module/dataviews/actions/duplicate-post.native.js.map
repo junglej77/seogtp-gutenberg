@@ -1,0 +1,1 @@
+{"version":3,"names":["duplicatePost","undefined"],"sources":["@wordpress/editor/src/dataviews/actions/duplicate-post.native.tsx"],"sourcesContent":["const duplicatePost = undefined;\r\n\r\nexport default duplicatePost;\r\n"],"mappings":"AAAA,MAAMA,aAAa,GAAGC,SAAS;AAE/B,eAAeD,aAAa","ignoreList":[]}

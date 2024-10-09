@@ -1,0 +1,1 @@
+{"version":3,"names":["SaveButton"],"sources":["@wordpress/seogtp/src/index.js"],"sourcesContent":["import SaveButton from './button';\r\n\r\nexport {\r\n    SaveButton,\r\n};\r\n"],"mappings":"AAAA,OAAOA,UAAU,MAAM,UAAU;AAEjC,SACIA,UAAU","ignoreList":[]}

@@ -1,0 +1,1 @@
+{"version":3,"names":["default","GlobalStylesUI"],"sources":["@wordpress/edit-site/src/components/global-styles/index.js"],"sourcesContent":["export { default as GlobalStylesUI } from './ui';\r\n"],"mappings":"AAAA,SAASA,OAAO,IAAIC,cAAc,QAAQ,MAAM","ignoreList":[]}

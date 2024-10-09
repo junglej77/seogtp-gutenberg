@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["@wordpress/primitives/src/index.js"],"sourcesContent":["export * from './svg';\r\nexport * from './horizontal-rule';\r\nexport * from './block-quotation';\r\nexport * from './view';\r\n"],"mappings":"AAAA,cAAc,OAAO;AACrB,cAAc,mBAAmB;AACjC,cAAc,mBAAmB;AACjC,cAAc,QAAQ","ignoreList":[]}

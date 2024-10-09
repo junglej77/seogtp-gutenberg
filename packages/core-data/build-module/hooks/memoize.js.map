@@ -1,0 +1,1 @@
+{"version":3,"names":["memoize"],"sources":["@wordpress/core-data/src/hooks/memoize.js"],"sourcesContent":["/**\r\n * External dependencies\r\n */\r\nimport memoize from 'memize';\r\n\r\n// re-export due to restrictive esModuleInterop setting\r\nexport default memoize;\r\n"],"mappings":"AAAA;AACA;AACA;AACA,OAAOA,OAAO,MAAM,QAAQ;;AAE5B;AACA,eAAeA,OAAO","ignoreList":[]}

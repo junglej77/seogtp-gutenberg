@@ -1,0 +1,1 @@
+{"version":3,"names":["default","useCardMedia"],"sources":["@wordpress/components/src/card/card-media/index.ts"],"sourcesContent":["export { default } from './component';\r\nexport { useCardMedia } from './hook';\r\n"],"mappings":"AAAA,SAASA,OAAO,QAAQ,aAAa;AACrC,SAASC,YAAY,QAAQ,QAAQ","ignoreList":[]}

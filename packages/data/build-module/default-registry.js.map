@@ -1,0 +1,1 @@
+{"version":3,"names":["createRegistry"],"sources":["@wordpress/data/src/default-registry.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nimport { createRegistry } from './registry';\r\n\r\nexport default createRegistry();\r\n"],"mappings":"AAAA;AACA;AACA;AACA,SAASA,cAAc,QAAQ,YAAY;AAE3C,eAAeA,cAAc,CAAC,CAAC","ignoreList":[]}

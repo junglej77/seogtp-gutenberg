@@ -1,0 +1,1 @@
+{"version":3,"names":["KeyboardShortcuts"],"sources":["@wordpress/components/src/keyboard-shortcuts/index.native.js"],"sourcesContent":["const KeyboardShortcuts = () => null;\r\nexport default KeyboardShortcuts;\r\n"],"mappings":"AAAA,MAAMA,iBAAiB,GAAGA,CAAA,KAAM,IAAI;AACpC,eAAeA,iBAAiB","ignoreList":[]}

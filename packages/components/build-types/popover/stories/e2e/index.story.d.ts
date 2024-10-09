@@ -1,0 +1,7 @@
+declare const _default: {
+    title: string;
+    component: import("../../../context").WordPressComponent<import("react").ElementType<any, keyof import("react").JSX.IntrinsicElements> | null, Omit<import("../../../context").WordPressComponentProps<import("../../types").PopoverProps, "div", false>, "onDrag" | "onDragEnd" | "onDragStart" | "onAnimationStart" | "transition" | "inherit" | "initial" | "layout" | "drag" | "custom" | "transformTemplate" | "data-framer-appear-id" | "exit" | "variants" | "onBeforeLayoutMeasure" | "onLayoutMeasure" | "onUpdate" | "onAnimationComplete" | "onPan" | "onPanStart" | "onPanSessionStart" | "onPanEnd" | "onTap" | "onTapStart" | "onTapCancel" | "whileTap" | "globalTapTarget" | "whileHover" | "onHoverStart" | "onHoverEnd" | "whileFocus" | "whileInView" | "onViewportEnter" | "onViewportLeave" | "viewport" | "whileDrag" | "dragDirectionLock" | "dragPropagation" | "dragConstraints" | "dragElastic" | "dragMomentum" | "dragTransition" | "dragControls" | "dragSnapToOrigin" | "dragListener" | "onMeasureDragConstraints" | "_dragX" | "_dragY" | "onDirectionLock" | "onDragTransitionEnd" | "layoutId" | "onLayoutAnimationStart" | "onLayoutAnimationComplete" | "layoutDependency" | "layoutScroll" | "layoutRoot" | "ignoreStrict"> & import("react").RefAttributes<any>, boolean>;
+};
+export default _default;
+export declare const Default: () => import("react").JSX.Element;
+//# sourceMappingURL=index.story.d.ts.map

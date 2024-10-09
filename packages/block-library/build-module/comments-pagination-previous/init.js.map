@@ -1,0 +1,1 @@
+{"version":3,"names":["init"],"sources":["@wordpress/block-library/src/comments-pagination-previous/init.js"],"sourcesContent":["/**\r\n * Internal dependencies\r\n */\r\nimport { init } from './';\r\n\r\nexport default init();\r\n"],"mappings":"AAAA;AACA;AACA;AACA,SAASA,IAAI,QAAQ,IAAI;AAEzB,eAAeA,IAAI,CAAC,CAAC","ignoreList":[]}

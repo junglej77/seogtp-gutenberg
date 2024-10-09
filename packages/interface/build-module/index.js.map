@@ -1,0 +1,1 @@
+{"version":3,"names":["store"],"sources":["@wordpress/interface/src/index.js"],"sourcesContent":["export * from './components';\r\nexport { store } from './store';\r\n"],"mappings":"AAAA,cAAc,cAAc;AAC5B,SAASA,KAAK,QAAQ,SAAS","ignoreList":[]}

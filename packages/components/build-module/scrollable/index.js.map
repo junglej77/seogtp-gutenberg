@@ -1,0 +1,1 @@
+{"version":3,"names":["default","Scrollable"],"sources":["@wordpress/components/src/scrollable/index.ts"],"sourcesContent":["export { default as Scrollable } from './component';\r\n\r\nexport * from './hook';\r\n"],"mappings":"AAAA,SAASA,OAAO,IAAIC,UAAU,QAAQ,aAAa;AAEnD,cAAc,QAAQ","ignoreList":[]}
